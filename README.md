@@ -22,11 +22,11 @@ Notes on Paper
 - Wait for the program to play the corresponding note. 
 
 ## Assumptions ✅:
-- The program works under several assumptions. These assumptions can be removed as we enhance the program later on. Due to time constraint in the hackathon, these assumptions are not dealt with yet and they need to be satisfied for the program to work well:
+- The program works under several assumptions. These assumptions can be removed as we enhance the program later on. Due to time constraints in the hackathon, these assumptions are not dealt with yet and they need to be satisfied for the program to work well:
 1. Firstly, the environment needs to be well lit or else Google Vision won't be able to recognize the handwriting well.
 2. It is recommended to write the letters in bold.
 3. The letters need to be apart from each other to avoid the program from reading them as a single word.
-4. Each of the 7 letters (C, D, E, F, G, A, B) appear exactly once on the paper. The program doesn't work if a letter is missing. If a letter appears more than once, for example, if there are three 'A' on the paper, only one of the three 'A' will be remembered by the program in terms of its position.
+4. Each of the 7 letters (C, D, E, F, G, A, B) appears exactly once on the paper. The program doesn't work if a letter is missing. If a letter appears more than once, for example, if there are three 'A' on the paper, only one of the three 'A' will be remembered by the program in terms of its position.
 
 ## Possible extension of this functionality 🚀:
 - I was thinking about my nephew when working on this project. I imagined how fun it would be if, say, my nephew doodled a cat, a bird, and a car on a piece of paper and showed it to a program. When he points at his drawing of a cat, the program recognizes that it is a cat and responds by saying "what a beautiful cat" or playing some sounds. This would certainly encourage my nephew to draw more!
