@@ -7,9 +7,8 @@ Zheng En (Eve) Than
 Notes on Paper
 
 ## Worksites:
-- I worked on the project in two Google Colab notebooks. I created a second notebook when I found the first one messy. The second link leads to the second notebook which is where the completed project is:
-1. https://colab.research.google.com/drive/1aYzfO6OQkq7zFwnoKGIVT0d0pxL5ttuq?usp=sharing
-2. https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing
+- This link leads to the notebook where the completed project is: https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing
+- My ipynb file is too large to be uploaded to GitHub. 
 
 ## Goal:
 - To create an interactive program where the program plays a piano key when the user taps on the corresponding key letter on a piece of paper.
