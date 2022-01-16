@@ -1,19 +1,37 @@
-# This is team 3-Little-Cats-
+# This is team 3 Little Cats
 
-The project was 
+## Team member:
+Zheng En (Eve) Than
 
-Working on the project at: https://colab.research.google.com/drive/1aYzfO6OQkq7zFwnoKGIVT0d0pxL5ttuq?usp=sharing
+## Project title:
+Notes on Paper
 
-Also working at: https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing
+## Worksites:
+- I worked on the project in two Google Colab notebooks. I created a second notebook when I found the first one messy. The second link leads to the second notebook which is where the completed project is:
+1. https://colab.research.google.com/drive/1aYzfO6OQkq7zFwnoKGIVT0d0pxL5ttuq?usp=sharing
+2. https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing
 
 ## Goal:
+- To create an interactive program where the program plays a piano key when the user taps on the corresponding key letter on a piece of paper.
+
+## How to use the program:
+- Write 7 notes (C, D, E, F, G, A, B) on a piece of paper.
+- Show the paper with the 7 letters written on it to the program.
+- Take a photo of the paper using the program and check if all letters are recognized well.
+- Start the live camera while still showing the paper to the program.
+- Tap on any letter on the paper using the tip of index finger. 
+- Wait for the program to play the corresponding note. 
 
 ## Assumptions:
+- The program works under several assumptions. These assumptions can be removed as we enhance the program later on. Due to time constraint in the hackathon, these assumptions are not dealt with yet and they need to be satisfied for the program to work well:
+1. Firstly, the environment needs to be well lit or else Google Vision won't be able to recognize the handwriting well.
+2. It is recommended to write the letters in bold.
+3. The letters need to be apart from each other to avoid the program from reading them as a single word.
+4. Each of the 7 letters (C, D, E, F, G, A, B) appear exactly once on the paper. The program doesn't work if a letter is missing. If a letter appears more than once, for example, if there are three 'A' on the paper, only one of the three 'A' will be remembered by the program in terms of its position.
 
 ## Possible extension of this functionality:
 
 ## Additional comments and references:
-
 ### Camera
 - cv2.VideoCapture doens't work on Google Colab. Therefore, code snippets from Google Colab are used to implement the capture photo function. The "Camera Capture" code snippets cosist of two code cells on Google Colab, and can be found by following the following steps:
 1. Click "Code snippets" on the menu bar on the left hand side. The symbol of "Code snippets" looks like '< >'.
