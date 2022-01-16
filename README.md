@@ -30,6 +30,7 @@ Notes on Paper
 4. Each of the 7 letters (C, D, E, F, G, A, B) appear exactly once on the paper. The program doesn't work if a letter is missing. If a letter appears more than once, for example, if there are three 'A' on the paper, only one of the three 'A' will be remembered by the program in terms of its position.
 
 ## Possible extension of this functionality:
+- I was thinking about my nephew when working on this project. I imagined how fun it would be if, say, my nephew doodled a cat, a bird, and a car on a piece of paper and showed it to a program. When he points at his drawing of a cat, the program recognizes that it is a cat and responds by saying "what a beautiful cat" or playing some sounds. This would certainly encourage my nephew to draw more!
 
 ## Additional comments and references:
 ### Camera
