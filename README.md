@@ -46,7 +46,8 @@ Notes on Paper
 - In order to save time, I did not create a machine learning model from scratch and train it to recognize handwritten texts. Instead, I used Google Cloud's Vision API to recognize handwritten words in an image. Google Cloud has offered many tutorials and code samples on their website which helped me immensely. I have used their code sample from https://cloud.google.com/vision/docs/fulltext-annotations. I changed and deleted a few lines of their code since I will only need to recognize words and not blocks and paragraphs.
 
 ### Piano key sounds 🎹
-- The sound files of the 7 piano keys are downloaded from https://freesound.org/people/Tesabob2001/packs/12995/.
+- The piano keys used are the 7 white keys from C4 to B4.
+- The sound files of the 7 piano keys are downloaded from https://freesound.org/people/Tesabob2001/packs/12995/. 
 
 ### Hand recognition ✋
 - A part of the project involves recognizing where my index finger tip is. I referred to https://google.github.io/mediapipe/solutions/hands.html a lot when implementing this function.
