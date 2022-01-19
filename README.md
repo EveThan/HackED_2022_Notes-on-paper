@@ -1,4 +1,4 @@
-Devpost link: https://devpost.com/software/notes-on-paper?ref_content=my-projects-tab&ref_feature=my_projects
+Devpost link: https://devpost.com/software/notes-on-paper
 
 ## Team member 👩‍💻:
 Zheng En (Eve) Than
