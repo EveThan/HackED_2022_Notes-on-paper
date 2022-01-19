@@ -1,4 +1,6 @@
-![demo](https://user-images.githubusercontent.com/46462603/150085986-a0122580-be7c-4ca5-9367-2bb26f142de3.jpeg)
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/46462603/150085986-a0122580-be7c-4ca5-9367-2bb26f142de3.jpeg">
+</p>                                                                                                           
 
 Devpost link: https://devpost.com/software/notes-on-paper
 
