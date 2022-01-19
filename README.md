@@ -53,4 +53,4 @@ Notes on Paper
 - A part of the project involves recognizing where my index finger tip is. I referred to https://google.github.io/mediapipe/solutions/hands.html a lot when implementing this function.
 
 ### Other references 📚
-- I have visited stackoverflow countless times to look for answers for the simplest issues such as how to install a libray on Google Colab.  
+- I have visited stackoverflow countless times to look for answers for the simplest issues such as how to install a library on Google Colab.  
