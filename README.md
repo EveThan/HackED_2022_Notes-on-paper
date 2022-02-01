@@ -16,6 +16,8 @@ This image is obtained from running the last cell of <a href="https://colab.rese
 ## Worksite 🚧
 The Notes on Paper ipynb file is too large to be uploaded to GitHub! The completed project can be found <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">here</a>.
 
+It may look like the code cells are arranged out of order. They are arranged in that way to make demonstrating the project for HackED 2022 easier. With all the previous code cells already run, simply run the code cells after the title 'Demo for HackED 2022' one by one to do a demo. 
+
 ## Goal 🎯
 To create an interactive program where the program plays a piano key when the user taps on the corresponding key letter on a piece of paper.
 
