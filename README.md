@@ -3,7 +3,7 @@
 
 <br>
 
-This image is obtained from running the last cell of <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>. Notice how the index finger tip is marked with a blue circle.
+This image is obtained from running the last cell of <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>.
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/46462603/150085986-a0122580-be7c-4ca5-9367-2bb26f142de3.jpeg">
 </p>          
