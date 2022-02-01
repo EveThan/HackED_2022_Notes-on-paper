@@ -1,5 +1,6 @@
 # Notes on Paper: Play piano by tapping on your paper
 ## HackED 2022: Winner of Best use of Google Cloud
+<a href="https://devpost.com/software/notes-on-paper" target="_blank"><strong>Notes on Paper on Devpost</strong></a>
 
 <br>
 
@@ -10,16 +11,14 @@ This image is obtained from running the last cell of <a href="https://colab.rese
 
 <br>
 
-## Devpost
-<a href="https://devpost.com/software/notes-on-paper" target="_blank">Notes on Paper on Devpost</a>
-
-## Worksite 🚧
-The Notes on Paper ipynb file is too large to be uploaded to GitHub! The completed project can be found at <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>.
-
-It may look like the code cells are arranged out of order. They are arranged in that way to make demonstrating the project for HackED 2022 easier. With all the previous code cells already run, simply run the code cells after the title 'Demo for HackED 2022' one by one to do a demo. 
-
 ## Goal 🎯
 To create an interactive program where the program plays a piano key when the user taps on the corresponding key letter on a piece of paper.
+
+## Code, files, or folders needed to run the program
+- <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>
+- <a href="https://github.com/ZhengEnThan/Notes-on-paper/tree/main/Sounds" target="_blank">Sounds</a>
+
+The Notes on Paper ipynb file is too large to be uploaded to GitHub. It may look like the code cells in the file are out of order. They are arranged in that way to make demonstrating the project for HackED 2022 easier. With all the previous code cells already run, simply run the code cells after the title 'Demo for HackED 2022' one by one to do a demo. 
 
 ## How to use the program ❓
 - Write 7 notes (C, D, E, F, G, A, B) on a piece of paper.
