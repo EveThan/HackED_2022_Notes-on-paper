@@ -14,7 +14,7 @@ This image is obtained from running the last cell in <a href="https://colab.rese
 ## Goal 🎯
 To create an interactive program where the program plays a piano key when the user taps on the corresponding key letter on a piece of paper.
 
-## Code, files, or folders needed to run the program
+## Code, files, or folders needed to run the program 📁
 - <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>
 - <a href="https://github.com/ZhengEnThan/Notes-on-paper/tree/main/Sounds" target="_blank">Sounds</a>
 
