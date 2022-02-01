@@ -14,7 +14,7 @@ This image is obtained from running the last cell of <a href="https://colab.rese
 <a href="https://devpost.com/software/notes-on-paper" target="_blank">Notes on Paper on Devpost</a>
 
 ## Worksite 🚧
-The Notes on Paper ipynb file is too large to be uploaded to GitHub! The completed project can be found <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">here</a>.
+The Notes on Paper ipynb file is too large to be uploaded to GitHub! The completed project can be found at <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>.
 
 It may look like the code cells are arranged out of order. They are arranged in that way to make demonstrating the project for HackED 2022 easier. With all the previous code cells already run, simply run the code cells after the title 'Demo for HackED 2022' one by one to do a demo. 
 
@@ -46,7 +46,7 @@ cv2.VideoCapture doens't work on Google Colab. Therefore, code snippets from Goo
 2. Filter code snippets by typing "Camera Capture" in the search box. 
 3. Click "Insert" to insert the code snippets.
 
-- Similarly, cv2.VideoCapture didn't work on Google Colab when I was trying to use it to process live video and capture every frame in the live video. I found code snippets from The AI Guy on YouTube that can achieve this with the help of some JavaScript code. The video can be found <a href="https://www.youtube.com/watch?v=ebAykr9YZ30" target="_blank">here</a>.
+- Similarly, cv2.VideoCapture didn't work on Google Colab when I was trying to use it to process live video and capture every frame in the live video. I found code snippets from The AI Guy on YouTube that can achieve this with the help of some JavaScript code. The video can be found on YouTube: <a href="https://www.youtube.com/watch?v=ebAykr9YZ30" target="_blank">Real-time YOLOv4 Object Detection on Webcam in Google Colab | Images and Video</a>.
 
 - The reason why it's tricky to use the camera on Google Colab is that Google Colab is running on my browser. Hence, some web API's need to be used for Google Colab to access my local hardware such as my camera.
 
