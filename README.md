@@ -1,5 +1,5 @@
 # Notes on Paper: Play piano by tapping on your paper
-## HackED 2022: Best use of Google Cloud
+## HackED 2022: Winner of Best use of Google Cloud
 
 <br>
 
