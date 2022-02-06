@@ -17,6 +17,7 @@ To create an interactive program where the program plays a piano key when the us
 ## Code, files, or folders needed to run the program 📁
 - <a href="https://colab.research.google.com/drive/1WMJ6wPWb0A0mwZyL16_OsF6U3sDkQkrc?usp=sharing" target="_blank">Notes on Paper on Google Colab</a>
 - <a href="https://github.com/ZhengEnThan/Notes-on-paper/tree/main/Sounds" target="_blank">Sounds</a>
+- key.json file which contains my credentials to connect to Google Cloud
 
 The Notes on Paper ipynb file is too large to be uploaded to GitHub. It may look like the code cells in the file are out of order. They are arranged in that way to make demonstrating the project for HackED 2022 easier. With all the previous code cells already run, simply run the code cells after the title 'Demo for HackED 2022' one by one to do a demo. 
 
@@ -28,6 +29,21 @@ The Notes on Paper ipynb file is too large to be uploaded to GitHub. It may look
 - Tap on any letter on the paper using the tip of index finger. 
 - Wait for the program to play the corresponding note. 
 
+## What have I learned 📚
+- Explored code snippets available on Google Colab to implement functions such as capturing photo on Google Colab.
+- Explored and used code snippets to process live video and capture every frame in the live video on Google Colab. 
+- Used Google Cloud Vision API with the dense document text detection feature to recognize handwritten texts in photos.
+- Used the MediaPipe Hands module to recognize and locate hands and fingers in a live video. 
+- Used the Ipython.display.Audio module to play sounds on Google Colab.
+
+## Main libraries or modules used 🧩
+- google.cloud.vision 
+- mediapipe
+- cv2
+- PIL
+- IPython.display
+- numpy
+
 ## Assumptions ✅
 The program works under several assumptions. These assumptions can be removed as we enhance the program later on. Due to time constraints in the hackathon, these assumptions or criteria are not dealt with yet and they need to be satisfied for the program to work well:
 1. Firstly, the environment needs to be well lit or else Google Vision won't be able to recognize the handwriting well.
@@ -38,7 +54,7 @@ The program works under several assumptions. These assumptions can be removed as
 ## Possible extension of this functionality 🚀
 I was thinking about my nephew when working on this project. I imagined how fun it would be if, say, my nephew doodled a cat, a bird, and a car on a piece of paper and showed it to a program. When he points at his drawing of a cat, the program recognizes that it is a cat and responds by saying "what a beautiful cat" or playing some sounds. This would certainly encourage my nephew to draw more!
 
-## Additional comments and references 💬
+## Approaches and references 💬
 ### Camera 📷
 cv2.VideoCapture doens't work on Google Colab. Therefore, code snippets from Google Colab are used to implement the capture photo function. The "Camera Capture" code snippets cosist of two code cells on Google Colab, and can be found by following the following steps:
 1. Click "Code snippets" on the menu bar on the left hand side. The symbol of "Code snippets" looks like '< >'.
@@ -58,3 +74,5 @@ cv2.VideoCapture doens't work on Google Colab. Therefore, code snippets from Goo
 
 ### Hand recognition ✋
 - A part of the project involves recognizing where my index finger tip is. I referred to <a href="https://google.github.io/mediapipe/solutions/hands.html" target="_blank">MediaPipe Hands</a> a lot when implementing this function.
+
+~ Project created in January 2022 ~
